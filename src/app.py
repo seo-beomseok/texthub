@@ -685,7 +685,7 @@ def generate_modal():
                         """
                         ###### What is this app about?
 
-                        This dashboard provides a monitoring system for text-based financial indicators based on the methods developed by Beomseok Seo (2022, 2023). Please keep in mind that the presented data may not be completely accurate and could potentially be outdated. Therefore, it is recommended to use the information provided with caution and at your own risk.
+                        This dashboard replicates the text-based financial indicators proposed in Beomseok Seo (2022, 2023). Please keep in mind that the presented data may not be completely accurate and could potentially be outdated. Therefore, it is recommended to use the information provided with caution and at your own risk.
 
                         
                         """
